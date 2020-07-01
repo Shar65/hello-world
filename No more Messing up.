@@ -1,0 +1,15 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [ 
+        {
+            "Sid": "statement1",
+            "Effect": "Allow",
+            "Principal": { Sharidan Lenued }
+                "AWS": "arn:aws:iam::AccountB-ID:user/Dave"
+            },
+            "Action":   ["s3:PutObject","s3:PutObjectAcl"],
+            "Resource": "arn:aws:s3:::get credentials/*"
+        }
+    ] I can't stop second guessing. I think I have it right and I screw it up. I don't want to keep screwing up.....
+I want to get it right. I'll be here forever re reading everything. 
+}
